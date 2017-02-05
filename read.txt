@@ -1,0 +1,16 @@
+how to use cmd test with this
+MAP2SPIN.exe pitfall_demo_map_04.map pitfall_tiles_work_04.bmp -FX -TW15 -TH-11 >yourfile.spin
+
+if you like to comment on this email piershaw@gmail.com 
+
+I used visual c++ 6.0 
+
+
+
+MAP2SPIN.exe pier_map_test.map shouldwork.bmp -TW16 -TH16 >piertest.spin
+
+
+MAP2SPIN.exe pitfall_demo_map_06.map pitfall_tiles_work_06.bmp -FX -TW15 -TH-11 >yourfile2.spin
+
+
+BMP2SPIN.exe shouldwork2.bmp -b - tw32 -th16 
